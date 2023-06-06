@@ -18,8 +18,6 @@ collections:
     create: true
     editor:
       preview: false
-    extension: txt
-    format: frontmatter
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
