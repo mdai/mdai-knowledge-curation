@@ -14,7 +14,7 @@ local_backend: true
 collections:
   - label: "Knowledge"
     name: "knowledge"
-    folder: "src/posts"
+    folder: "src/knowledges"
     create: true
     editor:
       preview: false
@@ -33,7 +33,7 @@ collections:
   - label: "Post Examples"
     name: "examples"
     folder: "src/posts"
-    create: false
+    create: true
     editor:
       preview: false
     fields:
