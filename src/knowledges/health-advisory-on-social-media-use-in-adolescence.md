@@ -1,6 +1,6 @@
 ---
 title: Health advisory on social media use in adolescence
-description: Health advisory on social media
+description: APA's health advisory on social media
 author: Quan
 date: 2023-06-06T08:26:23.360Z
 tags:
