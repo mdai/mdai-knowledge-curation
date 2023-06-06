@@ -37,6 +37,7 @@ collections:
             "Prostate cancer",
             "Breast cancer",
             "Alzheimer’s",
+            "Other",
           ]
 
   - label: "Post Examples"
