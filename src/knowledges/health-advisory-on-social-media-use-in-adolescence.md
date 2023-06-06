@@ -6,9 +6,9 @@ date: 2023-06-06T08:26:23.360Z
 tags:
   - Depression
 ---
-Recommendations
+**APA's health recommendations on social media** 
 
-1. Youth using social media should be encouraged to use functions that create opportunities for social support, online companionship, and emotional intimacy that can promote healthy socialization
+Youth using social media should be encouraged to use functions that create opportunities for social support, online companionship, and emotional intimacy that can promote healthy socialization
 
 Data suggest that youths’ psychological development may benefit from this type of online social interaction, particularly during periods of social isolation, when experiencing stress, when seeking connection to peers with similar developmental and/or health conditions, and perhaps especially for youth who experience adversity or isolation in offline environments.12, 13,14,15
 
@@ -34,8 +34,6 @@ F. These recommendations are based on psychological science and related discipli
 
 Social media may be psychologically beneficial particularly among those experiencing mental health crises,19 or members of marginalized groups that have been disproportionately harmed in online contexts. For instance, access to peers that allows LGBTQIA+ and questioning adolescents to provide support to and share accurate health information with one another is beneficial to psychological development, and can protect youth from negative psychological outcomes when experiencing stress.20 This may be especially important for topics that adolescents feel reluctant to or are unable to discuss with a parent or caregiver.
 
-
-
 2. Social media use, functionality, and permissions/consenting should be tailored to youths’ developmental capabilities; designs created for adults may not be appropriate for children.
 
 Specific features (e.g., the “like” button, recommended content, unrestricted time limits, endless scrolling) and notices/alerts (e.g., regarding changes to privacy policies) should be tailored to the social and cognitive abilities and comprehension of adolescent users.21 As one example, adolescents should be informed explicitly and repeatedly, in age-appropriate ways, about the manner in which their behaviors on social media may yield data that can be used, stored, or shared with others, for instance, for commercial (and other) purposes.
@@ -59,8 +57,6 @@ Reporting structures should be created to easily identify harmful content, and e
 Research demonstrates that adolescents’ exposure to online discrimination and hate predicts increases in anxiety and depressive symptoms, even after controlling for how much adolescents are exposed to similar experiences offline.25 Similarly, research indicates that as compared to offline bullying, online bullying and harassment can be more severe, and thus damaging to psychological development.26–28 In other words, both online cyberhate and offline bullying can increase risk for adolescent mental health problems. Research suggests elevated risks both for the perpetrators and victims of cyberhate.29,30
 
 Adolescents should be trained to recognize online structural racism and critique racist messages. Research shows that young people who are able to critique racism experience less psychological distress when they witness race-related traumatic events online.25 As noted above, adults’ monitoring and active discussion of online content can also reduce the effects of exposure to cyberhate on adolescents’ psychological adjustment.22
-
-
 
 6. Adolescents should be routinely screened for signs of “problematic social media use” that can impair their ability to engage in daily roles and routines, and may present risk for more serious psychological harms over time.
 
