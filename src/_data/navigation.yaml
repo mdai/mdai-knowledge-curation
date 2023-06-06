@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Intro
-    url: "/intro"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: Guidelines
+    url: "/guidelines"
+  - text: Knowledge Collections
     url: "/blog"
+  - text: Static Output
+    url: "#"
+  - text: "Add Knowledge"
+    url: "/admin"
