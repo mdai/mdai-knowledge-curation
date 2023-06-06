@@ -18,9 +18,16 @@ collections:
     create: true
     editor:
       preview: false
+    extension: txt
+    format: frontmatter
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false,
+        }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
