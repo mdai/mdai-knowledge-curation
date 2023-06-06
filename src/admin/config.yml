@@ -29,7 +29,16 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options:
+          [
+            "Lung cancer",
+            "Depression",
+            "Liver cancer (HCC)",
+            "Prostate cancer",
+            "Breast cancer",
+            "Alzheimer’s",
+          ]
+
   - label: "Post Examples"
     name: "examples"
     folder: "src/posts"
@@ -48,6 +57,7 @@ collections:
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]
+
   - label: "Settings"
     name: "settings"
     editor:
