@@ -46,7 +46,7 @@ collections:
           ]
 
   - label: "Post Examples"
-    name: "examples"
+    name: "blog"
     folder: "src/posts"
     create: true
     editor:

@@ -1,8 +1,0 @@
----
-title: New test
-author: me
-date: 2023-06-06T20:29:14.746Z
-tags:
-  - Other
----
-t﻿est
