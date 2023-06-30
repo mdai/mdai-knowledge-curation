@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.2",
+    "html-to-text": "^9.0.5",
     "postcss": "^8.4.5"
   }
 }

@@ -1,0 +1,26 @@
+---
+title: Breast Cancer - What Causes Breast Cancer and How gene changes can lead
+  to breast cancer
+author: "Siyuan "
+date: 2023-06-27T13:53:56.288Z
+tags:
+  - Breast cancer
+---
+W﻿hat causes breast cancer: 
+
+* We don’t know what causes each case of breast cancer. But we do know many of the risk factors for these cancers (see Lifestyle-related Breast Cancer Risk Factors and Breast Cancer Risk Factors You Cannot Change). For example, lifestyle-related risk factors, such as what you eat and how much you exercise, can increase your chance of developing breast cancer, but it’s not yet known exactly how some of these risk factors cause normal cells to become cancer. Hormones also seem to play a role in many cases of breast cancer, but just how this happens is not fully understood.
+* We do know that normal breast cells can become cancer because of changes or mutations in genes. But only about 1 in 10 breast cancers (10%) are linked with known abnormal genes that are passed on from parents (inherited). Many genes have not yet been discovered, so women with a family history of breast cancer might have inherited an abnormal gene that doesn't show on a genetic test. Most breast cancers (about 90%) develop from acquired (not inherited) gene changes that have not yet been identified. How gene changes can lead to breast cancer
+
+
+* Genes control how our cells function. They are made up of a chemical called DNA, which comes from both our parents. DNA affects more than just how we look; it also can influence our risk for developing certain diseases, including some kinds of cancer. Normal cells have genes called proto-oncogenes, which help control when the cells grow, divide to make new cells, or stay alive. If a proto-oncogene is mutated (changed) in a certain way, it becomes an oncogene. Cells that have these mutated oncogenes can become cancer. Normal cells also have genes called tumor suppressor genes, which help control how often normal cells divide in two, repair DNA mistakes, or cause cells to die at the right time. If a cell has a mutated tumor suppressor gene, then the cell can turn into cancer. Cancers can be caused by gene changes that turn on oncogenes or turn off tumor suppressor genes. Changes in many different genes are usually needed to cause breast cancer.
+* Inherited gene changes
+
+  * Some gene changes (mutations) are inherited or passed to you from your parents. This means the mutations are in all your cells when you are born.
+  * Certain inherited gene changes can greatly increase the risk for developing certain cancers and are linked to many of the cancers that run in some families. For instance, the BRCA genes (BRCA1 and BRCA2) are tumor suppressor genes. When one of these genes changes, it no longer suppresses abnormal cell growth, and cancer is more likely to develop. A change in one of these genes can be passed from a parent to a child.
+  * Women have already begun to benefit from advances in understanding the genetic basis of breast cancer. Genetic testing can identify some women who have inherited mutations in the BRCA1 or BRCA2 tumor suppressor genes as well as other less common genes such as PALB2, ATM, or CHEK2. These women can then take steps to reduce their risk of breast cancer by increasing awareness of their breasts and following appropriate screening recommendations to help find cancer at an earlier, more treatable stage. Since these mutations are also often associated with other cancers (besides breast), women with these mutations might also consider early screening and preventive actions for other cancers.
+  * Mutations in tumor suppressor genes like the BRCA genes are considered “high penetrance” because they often lead to cancer. Although many women with high penetrance mutations develop cancer, most cases of cancer (including breast cancer) are not caused by this kind of mutation.
+  * More often, low-penetrance mutations or gene variations are a factor in cancer development. Each of these may have a small effect on cancer occurring in any one person, but the overall effect on the population can be large because the mutations are common, and people often have more than one at the same time. The genes involved can affect things like hormone levels, metabolism, or other factors that impact risk for breast cancer. These genes might also cause much of the risk of breast cancer that runs in families.
+* Acquired gene changes
+
+  * Most gene mutations linked to breast cancer are acquired. This means the change takes place in breast cells during a person's life rather than having been inherited or born with them. Acquired DNA mutations take place over time and are only in the breast cancer cells.
+  * These acquired mutations of oncogenes and/or tumor suppressor genes may result from other factors, like radiation or cancer-causing chemicals. But some gene changes may just be random events that sometimes happen inside a cell, without having an outside cause. So far, the causes of most acquired mutations that could lead to breast cancer are still unknown. Most breast cancers have several acquired gene mutations.
