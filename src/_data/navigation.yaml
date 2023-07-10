@@ -4,7 +4,7 @@ items:
     url: "/guidelines"
   - text: Knowledge Collections
     url: "/blog"
-  - text: Static Plaintext
-    url: "/output"
+  # - text: Static Plaintext
+  #   url: "/output"
   - text: "Add Knowledge"
     url: "/admin"
