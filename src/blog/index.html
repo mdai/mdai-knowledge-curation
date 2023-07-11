@@ -7,8 +7,8 @@ layout: blog
 	<article class="my-8">
 		<h2 class="font-bold text-3xl text-gray-900 mb-2">
 			<a href="{{ post.url | url }}">
-				{% if post.data.title %} {{ post.data.title }} {% else %} Untitled {%
-				endif %}
+				{{loop.revindex}}.{% if post.data.title %} {{ post.data.title }} {% else
+				%} Untitled {% endif %}
 			</a>
 		</h2>
 		<p class="text-base leading-6 text-gray-500 mb-3">
