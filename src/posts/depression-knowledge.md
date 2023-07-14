@@ -7,11 +7,11 @@ date: 2023-06-20T14:55:52.229Z
 tags:
   - Depression
 ---
-
-
 # Depression screening tools:
 
-https://www.apa.org/depression-guideline/assessment
+Source: <https://www.apa.org/depression-guideline/assessment>
+
+
 
 Across the Lifespan:
 
@@ -43,15 +43,26 @@ For General Adult Population: 
 
 
 
+Some more tools: the developed Mental Health Screening Tool for Depressive Disorders (MHS:D) developed by Kiho Park, et al in 2022. 
+
+Abstract: Early screening for depressive disorders is crucial given that major depressive disorder (MDD) is one of the main reasons of global burden of disease, and depression is the underlying cause for 60% of suicides. The need for an accurate screening for depression with high diagnostic sensitivity and specificity in a brief and culturally adapted manner has emerged. This study reports the final stage of a 3-year research project for the development of depression screening tool. The developed Mental Health Screening Tool for Depressive Disorders (MHS:D) was designed to be administered in both online and offline environments with a high level of sensitivity and specificity in screening for major depressive disorder. A total of 527 individuals completed two versions (online/offline) of the MHS:D and existing depression scales, including the BDI-II, CES-D, and PHQ-9. The Mini International Neuropsychiatric Interview (MINI) for diagnostic sensitivity/specificity was also administered to all participants. Internal consistency, convergent validity, factor analysis, item response theory analysis, and receiver operating characteristics curve (ROC) analysis were performed. The MHS:D showed an excellent level of internal consistency and convergent validity as well as a one-factor model with a reasonable level of model fit. The MHS:D could screen for major depressive disorder accurately (0.911 sensitivity and 0.878 specificity for both online and paper-pencil versions). Item response theory analysis suggested that items from the MHS:D could provide significantly more information than other existing depression scales. These statistical analyses indicated that the MHS:D is a valid and reliable scale for screening Korean patients with MDD with high diagnostic sensitivity and specificity. Moreover, given that the MHS:D is a considerably brief scale that can be administered in either online or paper-pencil versions, it can be used effectively in various contexts, particularly during the pandemic.
+
+# What is the most important screening tool?
+
+1. For general adults: it is PHQ-9, the most commonly used 
+2. For adolescents, PHQ-A 
+
+
+
 # Assessment of Depression Guidelines 
 
 ## Source1
 
-<https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext>
+Source <https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext>
 
 
 
-Researchers focus on the assessment of major depressive disorder in children and adolescents. Their methodology is as follows. 
+Researchers focus on the assessment of major depressive disorder of children and adolescents. Their methodology is as follows. 
 
 
 
@@ -179,7 +190,7 @@ Feedback to the patient’s care team is generally permissible with basic consen
 
 ## Source 2 
 
-Given by Quan
+SourceGiven by Quan
 
 For adolescents, the USPSTF suggests the use of a depression-focused instrument (such as the freely available Patient Health Questionnaire989) for initial screening. When using this and other instruments that include suicidality items remotely (eg, via patient portal) in advance of well visits in primary care settings, consideration must be given to the management of a positive response to the suicidality question, which necessitates urgent assessment. For this reason, primary care settings using remote screening might consider the adolescent-validated,90 freely available PHQ-2 instrument, which does not include suicidality items for the initial depression screen, to be followed by in-person administration of the PHQ-9 at the well visit if the PHQ-2 score is positive. For younger children, a similar remote screening consideration could be the child and adolescent validated, freely available Short Mood and Feelings Questionnaire (SMFQ), which does not include suicidality items, to be followed by in-person administration of the Long Mood and Feelings Questionnaire (LMFQ) at the well visit if the SMFQ score is positive. In the context of a psychiatric evaluation, symptoms of depression typically are identified through input from referral sources; spontaneous youth or parent report (the presenting problem or chief complaint); or during the clinician’s review of psychiatric symptoms or the conduct of the mental status examination. However, because of the variability inherent in nonsystematic methods of identification, a more standardized approach to symptom review may be useful. As one option, the American Psychiatric Association (APA) developed the freely available parent- and self-rated Level 1 Cross-Cutting Symptom Measures to screen for multiple psychiatric disorders including depression. Both the parent- and self-rated versions of the Level 1 Cross-Cutting measure have demonstrated good reliability in the DSM-5 field trials conducted in pediatric clinical samples across the United States. These instruments could be included in intake packets to systematically and efficiently gather information about presenting problems remotely, prior to the evaluation. As with remote use of the PHQ-9, remote administration of the Cross-Cutting measure must consider management of a positive response to the suicidality items, which necessitate urgent assessment; as such, the suicidality items may be deleted and deferred until the in-person visit.
 
@@ -187,13 +198,17 @@ For adolescents, the USPSTF suggests the use of a depression-focused instrument 
 
 ## Source 3: 
 
-<https://aapp.org/guideline/external/depression>
+Source <https://aapp.org/guideline/external/depression>
 
 This link offers a collection of article resources that are related to the assessment of depression.
 
 
 
 ## Source 4: 
+
+Source <https://adaa.org/resources-professionals/practice-guidelines-mdd>
+
+
 
 How to assess MDD. MDD is defined by the experience of sad mood or anhedonia (a loss of interest or pleasure) persisting nearly all day, every day for at least two weeks, which distinguishes it from an occasional sad mood or lack of interest that lasts for a few hours or days. For a diagnosis, four additional symptoms are required, including weight loss or gain; sleep disruptions; slowing down or speeding up of physical movements; fatigue or loss of energy; thoughts of worthlessness; difficulty with decision-making; and recurrent thoughts of death or suicide. Symptoms should cause significant distress or impairment in functioning and should not be attributable to drug abuse, medication changes, or medical conditions (e.g., hypothyroidism). Individuals with MDD may also experience significant anxiety, somatization and even psychosis; it increases the risk of suicide and for and morbidity and mortality associated with other medical and psychiatric conditions.
 
@@ -204,6 +219,8 @@ Clinical presentation poses significant variability since individuals do not exp
 
 
 # Health Advisory 
+
+Source <https://www.hhs.gov/sites/default/files/surgeon-general-youth-mental-health-advisory.pdf>
 
 
 
@@ -380,3 +397,81 @@ Clinical presentation poses significant variability since individuals do not exp
 
 * Provide access to comprehensive, affordable, and age-appropriate mental health care for all employees and their families, including dependent children
 * Create a workplace culture that affirms the importance of the mental health and wellbeing of all employees and their families.
+
+
+
+# Existing Resources and Support of Depression 
+
+## FREE and confidential support from trained mental health professionals
+
+Source: provided by Liana 
+
+1) NYC Well at 888-NYC-WELL (888-692-9355)
+
+2) The National Suicide Prevention Lifeline at 800-273-TALK (8255)
+
+
+
+Source: <https://www.samhsa.gov/find-help/national-helpline> (updated Jun 2023)
+
+SAMHSA’s National Helpline, 1-800-662-HELP (4357) (also known as the Treatment Referral Routing Service), or TTY: 1-800-487-4889 is a confidential, free, 24-hour-a-day, 365-day-a-year, information service, in English and Spanish, for individuals and family members facing mental and/or substance use disorders. This service provides referrals to local treatment facilities, support groups, and community-based organizations.
+
+
+
+Source: <https://findahelpline.com/us/ma/topics/depression>
+
+This site summarizes tons of (like 50 or more) national wide support lines, and also includes those specialized for specific regions 
+
+
+
+## How to get immediate help
+
+Source: <https://www.nimh.nih.gov/health/find-help>
+
+Call 911 if you or someone you know is in immediate danger or go to the nearest emergency room.
+
+[988 Suicide & Crisis Lifeline](https://988lifeline.org/)\
+Call or text 988; Llame al 988 (para ayuda en español)\
+Use [Lifeline Chat](https://988lifeline.org/chat/)  on the web (English only)\
+The Lifeline provides 24-hour, confidential support to anyone in suicidal crisis or emotional distress. Call or text 988 to connect with a trained crisis counselor. 
+
+[Veterans Crisis Line](https://www.veteranscrisisline.net/)\
+Use [Veterans Crisis Chat](https://www.veteranscrisisline.net/get-help/chat)  on the web\
+The Veterans Crisis Line is a free, confidential resource that connects veterans 24 hours a day, 7 days a week with a trained responder. The service is available to all veterans and those who support them, even if they are not registered with the VA or enrolled in VA healthcare.
+
+[Disaster Distress Helpline](https://www.samhsa.gov/find-help/disaster-distress-helpline)Call or text 1-800-985-5990\
+The disaster distress helpline provides immediate crisis counseling for people who are experiencing emotional distress related to any natural or human-caused disaster. The helpline is free, multilingual, confidential, and available 24 hours a day, 7 days a week.
+
+If you are worried about a friend’s social media updates, you can [contact safety teams at the social media company](https://988lifeline.org/help-someone-else/safety-and-support-on-social-media/) . They will reach out to connect the person with the help they need. 
+
+View the [5 action steps for helping someone in emotional pain](https://www.nimh.nih.gov/health/publications/5-action-steps-for-helping-someone-in-emotional-pain) infographic to see how you can help those in distress.
+
+
+
+## Psychotherapy and Psychiatry Resource
+
+
+
+Source: from Liana
+
+1) Hello Alma ([helloalma.com](http://helloalma.com/): Telepsych/Teletherapy, takes major commercial insurances - Aetna, Oxford, Oscar, UHC, Optum) 2) Headway: <https://headway.co/refer>. Providers fill out the short referral form online. HW will contact patient to match them with the right provider. 3) Psychology Today. [www.psychologytoday.com](http://www.psychologytoday.com/) 4) Telepsych: AmWell, TeleDoc. They take insurance and it's a good way for pt to get psychiatric care remotely. 5) Resource for quality psychiatrists who take insurance: <https://talkiatry.com/our-psychiatrists/>
+
+
+
+Source: <https://www.beachsiderehab.com/get-started/?gclid=CjwKCAjw5MOlBhBTEiwAAJ8e1m4jIQ2cYsiEajYq_O7E47E8zLavwFGrheOBfT1Zl7Jk0W4F3BstZxoCA6MQAvD_BwE>
+
+Beachside rehab is a luxury inpatient treatment for mental health and addiction center.  
+
+
+
+Source: 
+
+
+
+<https://www.verywellmind.com/best-depression-resources-and-organizations-5114534>
+
+This is the link that collects a lot of psychotherapy and psychiatry resources that help depression, and some of them overlap with the resource that Liana provided.
+
+
+
+SLuxury Inpatient Treatment for Mental Health and Addiction Disorders
