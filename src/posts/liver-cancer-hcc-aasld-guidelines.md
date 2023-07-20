@@ -8,7 +8,6 @@ tags:
 
 
 
-
 Source: “AASLD guidelines for the treatment of hepatocellular carcinoma” ([https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.29086](https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.29086))
 
 Knowledge: “
