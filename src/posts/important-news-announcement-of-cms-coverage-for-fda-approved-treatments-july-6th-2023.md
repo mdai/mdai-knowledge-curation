@@ -1,6 +1,6 @@
 ---
-title: Important news - Announcement of CMS Coverage for FDA-approved Treatments
-  (July 6th 2023)
+title: Important news on Alzheimer's treatment coverage - Announcement of CMS
+  Coverage for FDA-approved Treatments (July 6th 2023)
 description: https://www.alz.org/news/2023/medicare-medicaid-coverage-fda-approved-treatments
 author: Quan
 date: 2023-07-20T21:16:17.624Z
